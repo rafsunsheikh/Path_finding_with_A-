@@ -1,4 +1,4 @@
-# Path_finding_with_A-
+# Path_finding_with_A Star
 
 *Description:*
 1. Algorithm Used - A*
